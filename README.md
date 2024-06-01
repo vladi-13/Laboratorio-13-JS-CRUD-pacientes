@@ -1,4 +1,4 @@
-# Laboratorio-13-JS-CRUD-medicos-
+# Laboratorio-13-JS-CRUD-medicos
 
 Laboratorio #13
 
